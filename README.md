@@ -59,7 +59,7 @@ Simply open the `index.html` file in any web browser.
 To customize this template:
 
 * Update content in `index.html` (e.g., name, skills, project details)
-* Modify styling in `style.css` to match your brand or preference
+* Modify styling in `style` to match your brand or preference
 * Add your own images or assets in the respective folders
 
 ---
